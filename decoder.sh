@@ -3,7 +3,7 @@
 # Base64 routine de décodage écrite entièrement en bash, sans dépendances externes. 
 #
 # Utilisation :
-#   base64decode < input > output
+#  base64decode < input > output
 #
 # Ce code est totalement inefficace; il fonctionne environ 12 000 fois plus lentement que
 # le décodeur basé sur perl. La différence est que ce code ne vous oblige pas à
