@@ -5,7 +5,7 @@
 # Utilisation :
 #   base64decode < input > output
 #
-# Ce code est absurdement inefficace; il fonctionne environ 12 000 fois plus lentement que
+# Ce code est totalement inefficace; il fonctionne environ 12 000 fois plus lentement que
 # le décodeur basé sur perl. La différence est que ce code ne vous oblige pas à
 # installez tous les programmes externes, ce qui peut être important dans certains cas.
 #
